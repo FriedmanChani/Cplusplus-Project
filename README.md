@@ -109,7 +109,7 @@ Follow these instructions to build the Vehicle Management System project:
 2. **Navigate to the Project Directory**:
     - Change to the directory where you cloned the Vehicle Management System repository:
       ```bash
-      cd path/to/VehicleManagementSystem
+      cd path/to/Vehicle-Management-System
       ```
 
 3. **Create a Build Directory**:
