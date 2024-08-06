@@ -1,0 +1,16 @@
+# ninja log v6
+32	965	7446399357369987	CMakeFiles/VehicleSystem.dir/src/Truck.cpp.obj	8ebd4870f0195e95
+62	1032	7446399357668236	CMakeFiles/VehicleSystem.dir/src/Car.cpp.obj	64ce4f7aaf6183fa
+18	1037	7446399357219979	CMakeFiles/VehicleSystem.dir/src/Motorcycle.cpp.obj	5de2247eaa2d7691
+47	1125	7446399357513926	CMakeFiles/VehicleSystem.dir/src/Vehicle.cpp.obj	7d01bef69f730004
+2	1215	7446399357065827	CMakeFiles/VehicleSystem.dir/main.cpp.obj	a296a30db33eb64f
+141	1311	7446399358455192	CMakeFiles/VehicleSystem.dir/src/ServiceStation.cpp.obj	a327e2309576176c
+31	709	7446532590778258	CMakeFiles/VehicleSystem.dir/src/Car.cpp.obj	64ce4f7aaf6183fa
+22	724	7446532590688190	CMakeFiles/VehicleSystem.dir/src/Truck.cpp.obj	8ebd4870f0195e95
+17	766	7446532590638181	CMakeFiles/VehicleSystem.dir/src/Motorcycle.cpp.obj	5de2247eaa2d7691
+26	769	7446532590728205	CMakeFiles/VehicleSystem.dir/src/Vehicle.cpp.obj	7d01bef69f730004
+12	817	7446532590578198	CMakeFiles/VehicleSystem.dir/main.cpp.obj	a296a30db33eb64f
+36	832	7446532590828264	CMakeFiles/VehicleSystem.dir/src/ServiceStation.cpp.obj	a327e2309576176c
+832	980	7446532598788503	VehicleSystem.exe	32adc35749c28e7b
+9	472	7446534450666056	CMakeFiles/VehicleSystem.dir/main.cpp.obj	a296a30db33eb64f
+473	585	7446534455299994	VehicleSystem.exe	32adc35749c28e7b
