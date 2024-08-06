@@ -31,7 +31,7 @@ Follow these steps to set up, build, and run the Vehicle Management System proje
 git clone https://github.com/FriedmanChani/Vehicle-Management-System.git
 cd VehicleManagementSystem
 
-### Step 2: Install CMake and a C++ Compiler
+## Step 2: Install CMake and a C++ Compiler
 
 Before building the Vehicle Management System, you need to install CMake and a C++ compiler. Follow the instructions below based on your operating system.
 
